@@ -1,0 +1,325 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first{
+    margin: -4px;
+    overflow-y: hidden;
+    height: 735px;
+}
+.img1{
+    width: 100%;
+    height: 900px;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+}
+.second{
+    margin: -4px;
+}
+.img2{
+    width: 100%;
+    height: 750px;
+}
+.third{
+    margin: -4px;
+}
+.img3{
+    width: 100%;
+    height: 850px;
+}
+.text1{
+    width: 100%;
+    position: absolute;
+    color: white;
+}
+.logo{
+    height: 61px;
+    width: 111px;
+    margin-left: 84px;
+    margin-top: 27px;
+}
+.span{
+    font-family: Arial,Helvetica,sans-serif;
+    margin-left: 202px;
+    margin-top: -42px;
+}
+.tunnels{
+    padding-left: 25px;
+}
+.products{
+    padding-left: 13px;
+
+}
+.projects{
+    padding-left: 15px;
+
+}
+.prufrock{
+    padding-left: 11px;
+
+}
+.loop{
+    padding-left: 12px;
+
+}
+.carerrs{
+    margin-left: 1235px;
+    margin-top: -18px;
+}
+.flame{
+    margin-left: 1315px;
+    margin-top: -16px;
+}
+.text2{
+    margin-left: 83px;
+    margin-top: 500px;
+
+}
+.text3{
+    position: absolute;
+    margin-top: 250px;
+}
+.whytunnels{
+    padding-left: 80px;
+    color: white;
+    font-family: Arial,Helvetica,sans-serif;
+
+}
+.text4{
+    padding-top: 20px;
+    padding-left: 80px;
+    color: white;
+    letter-spacing: .03em;
+    line-height: 1.3em;
+    font-family: Roboto;
+    font-weight: 300;
+
+}
+.text5{
+    padding-top: 20px;
+    padding-left: 80px;
+    color: white;
+    letter-spacing: .03em;
+    line-height: 1.3em;
+    font-family: Roboto;
+    font-weight: 300;
+
+}
+.imgtext1{
+    font-family: din-2014;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 21px;
+    letter-spacing: .01em;
+    line-height: 1em;
+}
+.imgtext2{
+    font-family: din-2014;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 21px;
+    letter-spacing: .01em;
+    line-height: 1em;
+    margin-top:15px;
+
+}
+.firstbutton{
+    margin-left: 80px;
+    padding-top: 0px;
+    margin-top: 24px;
+    width: 164px;
+    height: 46px;
+    background:black;
+    color: white;
+    border: 10;
+    border-radius: 15px
+}
+.text6{
+    position: absolute;
+    margin-top: 250px;
+
+}
+.text7{
+    padding-top: 20px;
+    padding-left: 80px;
+    color: white;
+    letter-spacing: .03em;
+    line-height: 1.3em;
+    font-family: Roboto;
+    font-weight: 300;
+
+}
+.text8{
+    padding-top: 20px;
+    padding-left: 80px;
+    color: white;
+    letter-spacing: .03em;
+    line-height: 1.3em;
+    font-family: Roboto;
+    font-weight: 300;
+
+}
+.intoducingloop{
+    padding-left: 80px;
+    color: white;
+    font-family: Arial,Helvetica,sans-serif;
+
+}
+.secondbutton{
+    margin-left: 80px;
+    padding-top: 0px;
+    margin-top: 24px;
+    width: 164px;
+    height: 46px;
+    background:black;
+    color: white;
+    border: 10;
+    border-radius: 15px
+
+}
+.image4{
+    width: 100%;
+    height: 900px;
+}
+.text9{
+    position: absolute;
+    margin-top: 250px;
+}
+.meetprufock{
+    padding-left: 80px;
+    color: white;
+    font-family: Arial,Helvetica,sans-serif;
+
+}
+.text10{
+    padding-top: 20px;
+    padding-left: 80px;
+    color: white;
+    letter-spacing: .03em;
+    line-height: 1.3em;
+    font-family: Roboto;
+    font-weight: 300;
+}
+.text11{
+    padding-top: 20px;
+    padding-left: 80px;
+    color: white;
+    letter-spacing: .03em;
+    line-height: 1.3em;
+    font-family: Roboto;
+    font-weight: 300;
+}
+.thirdbutton{
+    margin-left: 80px;
+    padding-top: 0px;
+    margin-top: 24px;
+    width: 164px;
+    height: 46px;
+    background:black;
+    color: white;
+    border: 10;
+    border-radius: 15px
+
+}
+.img5{
+    width: 100%;
+    height: 1100px;
+}
+.text12{
+    position: absolute;
+    margin-top: 250px;
+
+}
+.joinus{
+    padding-top: 20px;
+    padding-left: 80px;
+    color: white;
+    letter-spacing: .03em;
+    line-height: 1.3em;
+    font-family: Roboto;
+    font-weight: 300;
+
+}
+.text13{
+    padding-top: 20px;
+    padding-left: 80px;
+    color: white;
+    letter-spacing: .03em;
+    line-height: 1.3em;
+    font-family: Roboto;
+    font-weight: 300;
+
+}
+.fifth{
+    margin: -4px;
+}
+.fourthbutton{
+    margin-left: 80px;
+    padding-top: 0px;
+    margin-top: 24px;
+    width: 164px;
+    height: 46px;
+    background:black;
+    color: white;
+    border: 10;
+    border-radius: 15px
+
+}
+.fifthbutton{
+    color: white;
+    width: 164px;
+    height: 46px;
+    background:black;
+    color: white;
+    border: 10;
+    border-radius: 15px
+}
+.return{
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 400px;
+    width: 100%;
+
+}
+.contact{
+    color: white;
+}
+a{
+    text-decoration: none;
+    font-family: din-2014;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    letter-spacing: .02em;
+    line-height: 1em;
+    text-transform: uppercase;
+    color: white;
+}
+.links{
+    margin-top: 66px;
+    width: 100%;
+}
+.contact{
+    margin-left: -36px;
+}
+.twitter{
+    padding-left: 12px;
+}
+.linkdin{
+    padding-left: 12px;
+
+}
+.careers{
+    padding-left: 12px;
+
+}
+
+
+
+
+
+
+
